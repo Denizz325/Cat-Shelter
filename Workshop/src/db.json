@@ -1,0 +1,32 @@
+{
+  "cats": [
+    {
+      "id": 1,
+      "imageUrl": "https://ichef.bbci.co.uk/news/976/cpsprodpb/12A9B/production/_111434467_gettyimages-1143489763.jpg",
+      "name": "Pretty Kitty",
+      "breed": "Bombay Cat",
+      "description": "Dominant and aggressive to other cats. Will probably eat you in your sleep. Very cute tho."
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://media.istockphoto.com/id/1443562748/photo/cute-ginger-cat.jpg?s=612x612&w=0&k=20&c=vvM97wWz-hMj7DLzfpYRmY2VswTqcFEKkC437hxm3Cg=",
+      "name": "Navcho",
+      "breed": "Bombay Cat",
+      "description": "Dominant and aggressive to other cats. Will probably eat you in your sleep. Very cute tho."
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://cdn.pixabay.com/photo/2015/06/19/14/20/cat-814952_1280.jpg",
+      "name": "Sisa",
+      "breed": "Bombay Cat",
+      "description": "Dominant and aggressive to other cats. Will probably eat you in your sleep. Very cute tho."
+    },
+    {
+      "name": "Deniz luchezarov Angelov",
+      "description": "fffffff",
+      "image": "dsds",
+      "breed": "Fluffy Cat",
+      "id": "dhsi9f8u8m1esrdwf"
+    }
+  ]
+}
