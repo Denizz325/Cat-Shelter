@@ -27,6 +27,20 @@ router.post('/breed', (req, res) => {
     res.redirect('/cats/create');
 })
 
+router.get('/:catId/changeInfo', async (req, res) => {
+    const catId = req.params.catId
+    const cat = await catServices.getOne(catId)
+    const breeds =  await catServices.getBreeds()
+    
+    res.render('cats/info', { breeds, cat})
+})
+
+router.post('/:catId/changeInfo', async (req, res) => {
+    const catData = req.body;
+    console.log(catData)
+
+
+})
 
 
 
